@@ -358,16 +358,6 @@ The current project can be extended with:
 
 ---
 
-## Author
-
-**Sanket Prajapati**
-
-Electronics & Communication Engineering
-
-Embedded Systems | Embedded C | ESP32 | IoT
-
----
-
 ## Project Status
 
 **Prototype / Academic Embedded Systems Project**
